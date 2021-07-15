@@ -21,8 +21,13 @@ Diagrama de caso de uso
 ![alt text](https://github.com/BrunoDuzanjo/ProjetoEngenhariaDeSoftware/blob/main/Imagens/Diagrama%20de%20caso%20de%20uso.png)
 
 
-Diagrama de sequencia 
+Diagrama de sequência (criar contato)
 
 
 ![alt text](https://github.com/BrunoDuzanjo/ProjetoEngenhariaDeSoftware/blob/main/Imagens/Diagrama%20de%20sequ%C3%AAncia%20b%C3%A1sico.png)
+
+
+Diagrama de sequência (login)
+
+![alt text](https://github.com/BrunoDuzanjo/ProjetoEngenhariaDeSoftware/blob/main/Imagens/Diagrama%20de%20sequ%C3%AAncia%20login.png)
 
