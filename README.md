@@ -12,5 +12,5 @@
 4. Deve-se poder fazer listagens de todos os contatos, por grupo de contato ou por campo (ex: nome, CEP, cidade, etc.)
 5. Uma interface de usuário prática e atraente.
 
-## 2) UML:
+## 3) UML:
 b) - Busca de um contato
