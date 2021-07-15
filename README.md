@@ -14,3 +14,8 @@
 
 ## 3) UML:
 b) - Busca de um contato
+
+Diagrama de caso de uso
+
+
+![alt text](https://github.com/BrunoDuzanjo/ProjetoEngenhariaDeSoftware/blob/main/Imagens/Diagrama%20de%20caso%20de%20uso.png)
