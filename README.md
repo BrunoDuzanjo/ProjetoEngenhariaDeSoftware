@@ -3,7 +3,7 @@
 ## Professor: Cesar Olavo de Moura Filho
 
 # Equipe:
-## Bruno Silveira, Guilherme Estevam, Leonardo Evangelista e Pâmela Barbosa.
+### Bruno Silveira, Guilherme Estevam, Leonardo Evangelista e Pâmela Barbosa.
 
 ## 1) Requisitos Mínimos do Programa:
 1. Usuários devem ser identificados por id e senha.
