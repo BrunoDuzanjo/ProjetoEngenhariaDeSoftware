@@ -13,12 +13,16 @@
 5. Uma interface de usuário prática e atraente.
 
 ## 3) UML:
-b) - Busca de um contato
+a. Desenvolver os casos de uso do sistema.
+
 
 Diagrama de caso de uso
 
 
 ![alt text](https://github.com/BrunoDuzanjo/ProjetoEngenhariaDeSoftware/blob/main/Imagens/Diagrama%20de%20caso%20de%20uso.png)
+
+
+b. Elaborar diagramas de sequência para os casos de uso mais importantes.
 
 
 Diagrama de sequência (criar contato)
@@ -29,5 +33,12 @@ Diagrama de sequência (criar contato)
 
 Diagrama de sequência (login)
 
+
 ![alt text](https://github.com/BrunoDuzanjo/ProjetoEngenhariaDeSoftware/blob/main/Imagens/Diagrama%20de%20sequ%C3%AAncia%20login.png)
+
+
+Diagrama de sequência (Criar Grupo de contatos)
+
+
+![alt text](https://github.com/BrunoDuzanjo/ProjetoEngenhariaDeSoftware/blob/main/Imagens/Diagrama%20de%20sequ%C3%AAncia%20grupo%20de%20contatos.png)
 
