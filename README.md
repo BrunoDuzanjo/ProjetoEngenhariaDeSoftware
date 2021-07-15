@@ -16,9 +16,6 @@
 a. Desenvolver os casos de uso do sistema.
 
 
-Diagrama de caso de uso
-
-
 ![alt text](https://github.com/BrunoDuzanjo/ProjetoEngenhariaDeSoftware/blob/main/Imagens/Diagrama%20de%20caso%20de%20uso.png)
 
 
@@ -41,4 +38,13 @@ Diagrama de sequência (Criar Grupo de contatos)
 
 
 ![alt text](https://github.com/BrunoDuzanjo/ProjetoEngenhariaDeSoftware/blob/main/Imagens/Diagrama%20de%20sequ%C3%AAncia%20grupo%20de%20contatos.png)
+
+
+c. Elaborar diagramas de atividade.
+
+
+![alt text](https://github.com/BrunoDuzanjo/ProjetoEngenhariaDeSoftware/blob/main/Imagens/Diagrama%20de%20atividade.png)
+
+
+
 
