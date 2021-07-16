@@ -57,3 +57,13 @@ e. Elaborar os diagramas de estado de um objeto Conta (Account)
 ![alt text](https://github.com/BrunoDuzanjo/ProjetoEngenhariaDeSoftware/blob/main/Imagens/Diagrama%20de%20Estado.png)
 
 
+f. Explicitar a arquitetura escolhida. Nela você deverá explicitar os módulos do sistema, sempre
+respeitando o padrão arquitetural escolhido (4-Layer, Transaction Scripts, Domain Model, etc). Use, para
+tal, diagramas de componentes e/ou de pacotes.
+
+
+![alt text](https://github.com/BrunoDuzanjo/ProjetoEngenhariaDeSoftware/blob/main/Imagens/Diagrama%20de%20Componentes.png)
+
+
+g. Elaborar os diagramas de implantação (deployment), para especificar em que máquinas (virtuais,
+containers, cloud, etc) e recursos os componentes desenvolvidos no item anterior devem ser alocados.
