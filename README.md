@@ -52,5 +52,8 @@ d. Elaborar os diagramas de classe do sistema.
 ![alt text](https://github.com/BrunoDuzanjo/ProjetoEngenhariaDeSoftware/blob/main/Imagens/Classe%20UML.png)
 
 
+e. Elaborar os diagramas de estado de um objeto Conta (Account)
+
+![alt text](https://github.com/BrunoDuzanjo/ProjetoEngenhariaDeSoftware/blob/main/Imagens/Diagrama%20de%20Estado.png)
 
 
