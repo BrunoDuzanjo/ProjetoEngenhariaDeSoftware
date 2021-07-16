@@ -4,7 +4,7 @@
 
 # Equipe:
 ### Bruno Silveira, Guilherme Estevam, Leonardo Evangelista e Pâmela Barbosa.
--- Gostariamos de pedir desculpas pelo incovenintes, mas acho que conseguimos fazer minimamente o que o senhor pedou, obrigado pela oportunidade.
+-- Antes de mais nada quero que entenda que a culpa foi nossa, gostariamos de pedir desculpas pelo incoveniente, mas acho que conseguimos fazer minimamente o que o senhor pediu, obrigado pela oportunidade.
 
 ## 1) Requisitos Mínimos do Programa:
 1. Usuários devem ser identificados por id e senha.
