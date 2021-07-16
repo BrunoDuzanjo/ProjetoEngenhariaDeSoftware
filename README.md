@@ -46,5 +46,11 @@ c. Elaborar diagramas de atividade.
 ![alt text](https://github.com/BrunoDuzanjo/ProjetoEngenhariaDeSoftware/blob/main/Imagens/Diagrama%20de%20atividade.png)
 
 
+d. Elaborar os diagramas de classe do sistema.
+
+
+![alt text](https://github.com/BrunoDuzanjo/ProjetoEngenhariaDeSoftware/blob/main/Imagens/Classe%20UML.png)
+
+
 
 
